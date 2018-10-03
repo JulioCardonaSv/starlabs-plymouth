@@ -1,3 +1,15 @@
+starlabs-plymouth (2.0.1) bionic; urgency=medium
+
+  * General Updates
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 27 Sep 2018 10:26:37 +0100
+
+starlabs-plymouth (2.0.0) artful; urgency=medium
+
+  * General updates
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 27 Sep 2018 09:23:38 +0100
+
 starlabs-plymouth (1.0.0) artful; urgency=medium
 
   * Initial release.
