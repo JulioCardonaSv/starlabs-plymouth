@@ -1,1 +1,1 @@
-Star Labs Plymouth theme
+starlabs-plymouth
