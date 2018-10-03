@@ -1,4 +1,4 @@
-# Star Labs Grub ![alt text](https://cdn.shopify.com/s/files/1/2059/5897/files/Star_50x.png?v=1513954416 "Star Labs Systems")
+# Star Labs Plymouth Theme ![alt text](https://cdn.shopify.com/s/files/1/2059/5897/files/Star_50x.png?v=1513954416 "Star Labs Systems")
 Star Labs plymouth theme
 
 ## How to install
